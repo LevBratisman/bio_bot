@@ -24,8 +24,8 @@ class SendFeedback(StatesGroup):
     
 media = MediaGroupBuilder()
 media.add_photo("AgACAgIAAxkBAAICHGYdJaqOAAH3a7zgKAwXYcnOTCckGgACstoxGxGE6UgE1F_O5hOqgAEAAwIAA3MAAzQE")
-media.add_photo("AgACAgIAAxkBAAICHmYdJbGhNGFI0mT8CwAByk2j8VQv8gACMNsxG-fl6UidL85yRZbFKwEAAwIAA3MAAzQE")
-media.add_photo("AgACAgIAAxkBAAICIGYdJbhDGNVH2-wt9tMmgNu0xHSsAAIx2zEb5-XpSGWjHaqAmMhHAQADAgADcwADNAQ")
+media.add_photo("AgACAgIAAxkBAAICwGYeF3JCrL_qjUsvtFO-nPh-pyLzAAL52zEbiEHxSJbW-TQ31OvBAQADAgADcwADNAQ")
+media.add_photo("AgACAgIAAxkBAAICwmYeF3k_3qyyMNCbvQPTp8-WwROVAAL62zEbiEHxSMfqNiSGi1MVAQADAgADcwADNAQ")
 media.add_photo("AgACAgIAAxkBAAICU2YdLPr2wb9nDa55ghLEAyRTd4rtAAJ-2zEb5-XpSO9kBtpv5b53AQADAgADcwADNAQ")
 
 
